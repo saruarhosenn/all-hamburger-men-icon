@@ -1,2 +1,2 @@
-# all-hamburger-menu-icon
-Link: https://saruarhosenn.github.io/all-hamburger-menu-icon/
+#hamburger-menu-btn-list
+Link: https://saruarhosenn.github.io/hamburger-menu-btn-list/
